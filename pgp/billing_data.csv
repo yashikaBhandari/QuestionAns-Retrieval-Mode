@@ -1,0 +1,11 @@
+date,service,cost
+2025-07-01,Compute Engine,120
+2025-07-02,BigQuery,80
+2025-07-03,Cloud Storage,60
+2025-07-04,Compute Engine,500
+2025-07-05,BigQuery,90
+2025-07-06,Cloud Storage,70
+2025-07-07,Compute Engine,110
+2025-07-08,BigQuery,85
+2025-07-09,Cloud Storage,65
+2025-07-10,Compute Engine,550
